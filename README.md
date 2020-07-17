@@ -990,6 +990,7 @@ Need a high-quality photo for iOS app or new banner? You can always shoot it you
 - [New Old Stock](https://nos.twnsnd.co/) — a vintage photos from the public archives free of known copyright restrictions. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Pexels](https://www.pexels.com/) — an aggregate of many free stock photo resources. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Photo Creator](https://photos.icons8.com/creator) — a free tool for creating realistic stock photos on your demand. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Photostockeditor](https://photostockeditor.com/) — Free Stock Photos and Premium Vectors. ![free.svg]
 - [Picography](https://picography.co/) — free stock photos by Dave Meier and various other photographers with Creative Commons CC0. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Pixabay](https://pixabay.com/) — sharing photos, illustrations, vector graphics, and film footage under a proprietary license. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Picjumbo](http://picjumbo.com/) — a collection of totally free photos for your commercial & personal works. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
